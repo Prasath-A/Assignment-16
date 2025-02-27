@@ -1,0 +1,14 @@
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\bin\Debug\net8.0\Task2.exe
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\bin\Debug\net8.0\Task2.deps.json
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\bin\Debug\net8.0\Task2.dll
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\bin\Debug\net8.0\Task2.pdb
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.dll
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\refint\Task2.dll
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.pdb
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+C:\Users\Veerandra Prasath A\source\repos\Firstc#project\Task2\obj\Debug\net8.0\ref\Task2.dll
